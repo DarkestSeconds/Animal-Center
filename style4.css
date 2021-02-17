@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
 
 body {
-  background: url(bg1.jpg) no repeat;
+  background: url(bg1.jpg) no-repeat;
   background-size: 300%;
 }
 
